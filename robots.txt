@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soocizusai.cbclement.com/sitemap.xml
